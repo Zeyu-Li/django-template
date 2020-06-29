@@ -71,11 +71,9 @@ Now you can go to http://127.0.0.1:8000/ and see the Django default homepage
 
 
 
-If you want to rename the Django project, use the rename command
+## Renaming
 
-```shell
-python manage.py rename #someName 
-```
+If you want to rename the Django project, I recommend deleting the project and starting a new project with the How it was Made section below
 
 
 
