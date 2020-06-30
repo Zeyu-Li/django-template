@@ -91,8 +91,6 @@ After virtual env and Django where installed, I used the startproject command
 django-admin startproject template
 ```
 
-(+ some code to help rename)
-
 
 
 ## License
